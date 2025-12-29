@@ -102,6 +102,5 @@ REDIS_URL=redis://localhost:6379
 ```
 
 ## 📝 License
-
-MIT
+FitMate
 
