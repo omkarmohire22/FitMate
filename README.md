@@ -1,4 +1,4 @@
-# 🏋️ FitMate Pro - AI-Powered Smart Gym Management System
+# 🏋️ FitMate Pro - Smart Gym Management Companion
 
 ## Overview
 
@@ -7,7 +7,6 @@ FitMate Pro is an AI-powered Smart Gym Management System that unifies trainees, 
 ## 🚀 Features
 
 ### Core Features
-- **AI Workout Tracker** - Real-time form analysis using MediaPipe & OpenCV
 - **Multi-Role System** - Admin, Trainer, and Trainee dashboards
 - **Nutrition Tracking** - AI-powered meal planning and food recognition
 - **Progress Analytics** - ML-based predictions and trend analysis
